@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrismaMediaTestTechnique</string>
+    <string name="navigation_tab_2_label">Favoris</string>
+    <string name="navigation_tab_1_label">List</string>
+</resources>
